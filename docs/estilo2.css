@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    color: green;
+}
+#barra {
+    color: green;
+}
+body {
+    background: goldenrod;
+}
+ul {
+    list-style-type: none;
+    margin: 3px;
+    padding: 2px;
+}
+/* unvisited link */
+a:link {
+    color: blue;
+}
+/* visited link */
+a:visited {
+    color: blue;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: red;
+  }
+  
+  /* selected link */
+  a:active {
+    color: red;
+  }
+  img {
+    border: solid black 5px;
+  }
